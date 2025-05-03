@@ -1,0 +1,233 @@
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/appsettings.Development.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/appsettings.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC.staticwebassets.runtime.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC.staticwebassets.endpoints.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC.deps.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC.runtimeconfig.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ASP.NET MVC.pdb
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.AssemblyInfoInputs.cache
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.AssemblyInfo.cs
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.csproj.CoreCompileInputs.cache
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.RazorAssemblyInfo.cache
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.RazorAssemblyInfo.cs
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/scopedcss/bundle/ASP.NET MVC.styles.css
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/scopedcss/projectbundle/ASP.NET MVC.bundle.scp.css
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/tigtfdf7y5-lugek5hnai.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/yt1qhuvseq-61n19gt1b8.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/51dxs459sz-fr7q2aak1r.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/34ad61rvun-bqjiyaj88i.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/la24btzo83-c2jlpeoesf.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/c4l1c3ecmk-erw9l3u2r3.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/83w9v4y089-aexeepp0ev.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/243v60r08n-d7shbmvgxk.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/lt70i8yyra-ausgxo2sd3.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/f36a3faa3r-k8d9w2qqmf.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/3vkeezllow-cosvhxvwiu.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/uwpz5xgyhm-ub07r2b239.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/rt8qmo046b-fvhpjtyr6v.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/2hzueqo72p-b7pk76d08c.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/rhe36h7wzi-fsbi9cje9m.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/etg4rlyi1b-rzd6atqjts.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/f4xhkjibby-ee0r1s7dh0.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/xp50oiau87-dxx9fxp4il.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/wcnyr3h2rw-jd9uben2k1.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/sg8xrf2v2s-khv3u5hwcm.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/h7lv0uaora-r4e9w2rdcm.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/9a21mazr3w-lcd1t2u6c8.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/ge64mv0ubv-c2oey78nd0.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/0o6pm0hgbd-tdbxkamptv.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/max63b9dps-j5mq2jizvt.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/p6306o83e1-06098lyss8.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/3gri28lfq7-nvvlpmu67g.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/w5ne4yy6j5-s35ty4nyc5.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/ogn0vuuvje-pj5nd1wqec.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/yeea71nj6f-46ein0sx1k.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/06jy15dztr-v0zj4ognzu.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/wgk18fgivx-37tfw0ft22.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/69293hzu2s-hrwsygsryq.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/51w2epmhcx-pk9g2wxc8p.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/uhtl9chsnh-ft3s53vfgj.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/v7dhknxe3k-6cfz1n2cew.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/rxiox80l45-6pdc2jztkx.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/q7zb0th2ud-493y06b0oq.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/locg3xm9y7-iovd86k7lj.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/0fv620dy5s-vr1egmr9el.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/iugzb9a313-kbrnm935zg.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/p4ma61izpt-jj8uyg4cgr.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/yob3k4u34d-y7v9cxd14o.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/x9xi1fmgx7-notf2xhcfb.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/io6noy2xkj-h1s4sie4z3.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/x9u3fyw6bs-63fj8s7r0e.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/8g0fbav19v-0j3bgjxly4.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/mkclgm0vny-47otxtyo56.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/1qevofmc6r-4v8eqarkd7.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/yhpp6h0ajv-l3n5xuwxn8.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/h3vspuxlcc-ilo7uva0vt.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/u9zg3tm04u-qlccset4i1.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/2cp4fbj7fx-lzl9nlhx6b.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/pciyp24yz8-ag7o75518u.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/wmp2bfpfxk-xzw0cte36n.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/zo493pg1dw-0i3buxo5is.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/ru2w0drbga-o1o13a6vjx.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/8y4nzcvl4e-ttgo8qnofa.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/cmt5d3kf8p-2z0ns9nrw6.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/56otg1drkf-muycvpuwrr.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/m2y5bf01k4-87fc7y1x7t.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/pu2v6y74ii-jfsiqqwiad.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/bu2i3zdypw-j7qb48w9s7.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/compressed/qy1a8lwx3g-j7qb48w9s7.gz
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets.build.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets.development.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets/msbuild.ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets/msbuild.ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets/msbuild.build.ASP.NET MVC.props
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NET MVC.props
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ASP.NET MVC.props
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/refint/ASP.NET MVC.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.pdb
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.genruntimeconfig.cache
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ref/ASP.NET MVC.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Azure.Core.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Azure.Identity.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.ClientModel.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Text.Json.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET MVC.csproj.AssemblyReference.cache
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/obj/Debug/net9.0/ASP.NET .22A783DB.Up2Date
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Humanizer.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.CodeDom.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Npgsql.dll
+/Users/tyf/Documents/software-programming/personal-coding-projects/ASP.NET MVC/ASP.NET MVC/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
